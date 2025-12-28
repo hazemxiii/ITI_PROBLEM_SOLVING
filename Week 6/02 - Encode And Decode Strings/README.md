@@ -1,1 +1,1 @@
-# [ProblemURL](https://leetcode.com/problems/encode-and-decode-strings/description/)
+# [ProblemURL](https://neetcode.io/problems/string-encode-and-decode/question?list=neetcode150)

@@ -1,0 +1,1 @@
+# [ProblemURL](https://leetcode.com/problems/find-the-original-typed-string-i/?envType)

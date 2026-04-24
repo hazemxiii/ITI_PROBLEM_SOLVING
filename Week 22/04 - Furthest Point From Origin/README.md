@@ -1,0 +1,1 @@
+# [ProblemURL](https://leetcode.com/problems/furthest-point-from-origin/description/?envType)
